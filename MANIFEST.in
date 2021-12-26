@@ -1,0 +1,9 @@
+include MANIFEST.in
+include setup.py
+include TetrisBooster/__init__.py
+include TetrisBooster/_controller.py
+include TetrisBooster/_gym_env.py
+include TetrisBooster/_tetris.py
+include includes/tetris.h
+include src/PyTetris.cpp
+include src/tetris.cpp
